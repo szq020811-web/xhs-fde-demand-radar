@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书 FDE 需求雷达"
+  short_description: "发现小红书上的企业 AI 落地与 FDE 团队需求线索"
+  default_prompt: "使用 FDE 需求雷达，在小红书搜索近期寻求 FDE、企业 AI 落地或 Agent 交付团队的公开帖子，并按意向分级。"
